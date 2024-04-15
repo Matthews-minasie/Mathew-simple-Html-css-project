@@ -1,2 +1,1 @@
-# Mathew-simple-Html-css-project
-this is  jus trial repository
+this is just trial of satic website for some local lounge
