@@ -1,0 +1,58 @@
+h1{
+    font-size: 100px;
+    font-family:    'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    font-weight: lighter;
+    color: brown;
+   
+}
+nav{
+    background:#1282a2;
+    height: 100px;
+    width: 100%;
+}
+label.log{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding:0 100px;
+    font-weight: bold;
+}
+nav ul{
+    margin-right: 10px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin:0 5px;
+}
+nav ul li a{
+    color: white;
+    font-size: 15px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active,a:hover{
+    background: #1b9bff;
+    transition: .5s;
+}
+
+body{
+    color:black;
+}
+div.pa{
+    margin: 10px;
+    padding: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+}
+#top{
+    margin: 100px;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: larger;
+
+}
