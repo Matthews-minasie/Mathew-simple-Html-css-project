@@ -1,1 +1,1 @@
-this is just trial of satic website for some local lounge
+this is just trial of satatic website for some local lounge
